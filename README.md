@@ -28,3 +28,9 @@ using the .read() method to read the imported file and store it in a variable na
 ![image](https://github.com/user-attachments/assets/ca441af3-21a1-4da7-bb1b-ccc64593b98e)
 
 Building a conditional statement to remove the elements of remove_list from the ip_addresses list.
+
+### Updating a file through a Python algorithm
+[Update-a-file-through-a-Python-algorithm.pdf](https://github.com/user-attachments/files/19145962/Update-a-file-through-a-Python-algorithm.pdf)
+
+
+
